@@ -1,4 +1,4 @@
-# Team Name : BLAZE
+
 # Fake-Reviews-Detection
 
 ## Problem Statement
